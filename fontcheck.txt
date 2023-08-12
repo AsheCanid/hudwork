@@ -1,2 +1,10 @@
 Raleway
 Nunito
+
+
+Font Reference:
+8: Raleway Reg
+9: Raleway Italic
+10: Raleway Medium
+11: Raleway Bold
+12: Raleway SemiBold
