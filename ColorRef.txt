@@ -1,0 +1,10 @@
+Colors in RGB
+PaleGreen = 148 179 165
+PurpleCust = 67 37 156
+OverTealed = 19 189 177 255
+LowHealth = 82 9 14 255
+ReserveAmmo = 23 8 117 255
+MagAmmo = 12 227 242 255
+SoftPink = 192 141 201 255
+DepressedGray = 128 128 128 255
+WhiteCust = 240 235 235 255
